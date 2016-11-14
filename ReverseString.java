@@ -2,7 +2,7 @@
 class ReverseString{
 
 	public static void main(String [] args){
-		System.out.println(revString("a,b$c"));
+		System.out.println(revString("bam,$p"));
 	}
 	
 	public static String revString(String input){
